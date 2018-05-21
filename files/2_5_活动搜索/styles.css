@@ -475,14 +475,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:78px;
+  width:73px;
   height:16px;
 }
 #u953 {
   position:absolute;
-  left:27px;
+  left:20px;
   top:129px;
-  width:78px;
+  width:73px;
   height:16px;
   color:#C9C9C9;
   text-align:center;
@@ -491,6 +491,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:78px;
-  white-space:nowrap;
+  width:73px;
+  word-wrap:break-word;
 }
